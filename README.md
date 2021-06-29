@@ -9,4 +9,4 @@ Use arrow keys/D-pad or swipe on screen to move tiles. Arrange all tiles in orde
 * Microsoft Visual Studio 2019 IDE with Universal Windows Platform development workload installed
 * Microsoft Windows 10 SDK (10.0.18362.0)
 
-<img src="Snapshots/Sliding-Puzzle.png" width="370"/>
+<img src="Screenshots/Sliding-Puzzle.png" width="370"/>
